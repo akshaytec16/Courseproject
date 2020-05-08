@@ -1,3 +1,5 @@
 ## Guessing game details- 
-README.md created: Fri, May  8, 2020  1:58:13 PM
-Number of lines in guessinggame.sh: 25
+\nREADME.md created: 
+Fri, May  8, 2020  2:06:23 PM
+\nNumber of lines in guessinggame.sh: 
+25

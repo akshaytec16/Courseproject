@@ -1,8 +1,6 @@
-echo "#Guessing Game" >> README.md
-echo "##The date and time at which make was run:" >> README.md
+echo "## guessinggame.sh \n" > README.md
+echo -n "README.md created: " >> README.md
 date >> README.md
-echo "The number of lines of code contained in 'guessinggame.sh':" >> README.md
-wc -l guessinggame.sh | egrep -o "[0-9]+" >> README.md
-
-
+echo -n "\nNumber of lines in guessinggame.sh: " >> README.md
+wc -l < ./guessinggame.sh >> README.md
 
